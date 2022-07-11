@@ -1,2 +1,2 @@
 # Note_taking_app
-Created with CodeSandbox
+Note taking app using ReactJS,HTML,CSS and javascript.
